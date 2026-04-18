@@ -23,9 +23,12 @@ I enjoy working with real-world datasets and transforming raw data into meaningf
 
 👨‍💻 All of my projects are available at-
 
-📈 What I Bring  
-✤  Strong analytical mindset  
-✤  Ability to explain insights in a simple way  
+📈 What I Bring 
+
+✤  Strong analytical mindset 
+
+✤  Ability to explain insights in a simple way 
+
 ✤  Focus on business-driven decisions, not just data  
 
 ⚡ Fun Fact  
