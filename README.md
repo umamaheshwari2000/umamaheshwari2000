@@ -43,19 +43,4 @@ LinkedIn: (https://www.linkedin.com/in/poloju-uma-maheshwari-114764222/)
 
 GitHub: https://github.com/umamaheshwari2000
 
-### 💻 Languages & Tools:
-<p>
-  <img src="https://img.icons8.com/fluency/48/sql.png" title="SQL"/>
-  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
-</p>
 
-### 🌐 Connect with me:
-<p>
-  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/poloju-uma-maheshwari-114764222/)" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/>
-  </a>
-  <a href="https://github.com/umamaheshwari2000" target="_blank">
-    <img src="https://img.icons8.com/material-rounded/48/github.png" title="GitHub"/>
-  </a>
-</p>
