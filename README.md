@@ -52,7 +52,7 @@ GitHub: https://github.com/umamaheshwari2000
 
 ### 🌐 Connect with me:
 <p>
-  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/poloju-uma-maheshwari-114764222/?skipRedirect=true)" target="_blank">
+  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/poloju-uma-maheshwari-114764222/)" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/>
   </a>
   <a href="https://github.com/umamaheshwari2000" target="_blank">
