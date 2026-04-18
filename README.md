@@ -36,7 +36,7 @@ From working with machines to working with data — I’ve shifted from fixing m
 
 💬 Ask me about Data Analytics, Power BI & SQL  
 
-📫 Reach me at: your-email-here  
+📫 Reach me at: umamaheshwaripoloju@gmail.com  
 
 🔗 Connect with me  
 LinkedIn: (https://www.linkedin.com/in/poloju-uma-maheshwari-114764222/)
