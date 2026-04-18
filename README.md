@@ -8,11 +8,17 @@ I enjoy working with real-world datasets and transforming raw data into meaningf
 
 
 🛠️ Skills & Tools 
-✤  Exploratory Data Analysis
+
+✤  Eploratory Data Analysis
+
 ✤  Power BI (Dashboarding & Data Visualization)  
+
 ✤  SQL (Data querying & analysis)   
+
 ✤  Statistics
-✤  Python (Basics for data analysis)  
+
+✤  Python 
+
 ✤  Analytical Thinking & Problem Solving  
 
 👨‍💻 All of my projects are available at-
