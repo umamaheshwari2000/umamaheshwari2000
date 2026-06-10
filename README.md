@@ -1,10 +1,11 @@
 Hi there 👋, I'm Uma Maheshwari  
 
-💻 Aspiring Data Analyst | Turning Data into Insights  
+💻 Data Analyst | Turning Data into Insights  
 
 🚀 About Me  
-I come from an automotive background 🚗, where precision and problem-solving were part of my daily work. Now, I’m applying the same mindset to data — analyzing patterns, building dashboards, and uncovering insights that drive decisions 📊  
-I enjoy working with real-world datasets and transforming raw data into meaningful stories.  
+Results-oriented Data Analyst with 1.1 years of industry experience and a strong foundation in SQL, Python, Power BI, and data visualization. Following a planned career break after marriage, I dedicated time to upskilling and expanding my expertise through hands-on projects focused on data cleaning, transformation, analysis, and dashboard development.
+
+Through continuous learning and practical application, I have strengthened my ability to convert raw data into actionable insights that support business objectives. I am now ready to re-enter the workforce and contribute effectively to data-driven organizations by combining my professional experience, technical skills, and passion for analytics.
 
 
 🛠️ Skills & Tools 
@@ -29,10 +30,7 @@ I enjoy working with real-world datasets and transforming raw data into meaningf
 
 ✤  Ability to explain insights in a simple way 
 
-✤  Focus on business-driven decisions, not just data  
-
-⚡ Fun Fact  
-From working with machines to working with data — I’ve shifted from fixing mechanical problems to solving data problems 🔧➡📊😄   
+✤  Focus on business-driven decisions, not just data   
 
 💬 Ask me about Data Analytics, Power BI & SQL  
 
